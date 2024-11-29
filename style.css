@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+ }
+ 
+ 
+ body {
+ background-color: #70ff7e;
+ }
+ 
+ 
+ 
+ .kok_title {
+     width: 400px;
+     background-color: #001ebd;
+     text-align: center;
+     padding: 26px 0;
+     border-radius: 20px;
+     margin: 31px auto;
+ }
+ 
+ 
+ .kok_title>h2 {
+    font-size: 48px;
+    color: white;
+    font-family: Inter;
+ }
+ 
+ 
+ 
+ .svetafor>center>div {
+     width: 150px;
+     height: 150px;
+     border-radius: 50%;
+ }
+ 
+ 
+ .svetafor {
+     margin: 0 auto;
+     background-color: black;
+     width: 451px;
+     padding: 69px 0;
+ }
+ 
+ 
+ .sariq {
+     margin: 20px 0 ;
+     background-color: yellow;
+     border: 5px solid chartreuse; 
+ }
+ 
+ .qizil {
+     background-color: red;
+     border-radius: 50%;
+     border: 5px solid chartreuse; 
+ }
+ 
+ .yashil {
+     background-color: chartreuse;
+ }
